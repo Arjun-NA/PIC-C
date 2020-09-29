@@ -8,3 +8,8 @@ Thank you
 <hr>
 The first program in any Electronic boards or ICs is always the blink. I have uploaded the <a href="blink.c">[Hello world]</a> for you<br>
 Here the delay is 900 milliseconds ; i.e , 900 millis LED ON and 900 millis LED OFF
+<hr>
+
+Further more,
+  1. [Bluetooth module with PIC](./bluetooth/)
+  2. [LCD Display controlling with PIC](./lcd/)
